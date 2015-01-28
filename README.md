@@ -46,3 +46,6 @@ Therefore upon the Gulp task completion, there should be at a minimum three file
 2. Create .pegjs definition (look at /src/packages/stats/peg.pegjs)
 3. 'pegjs FILENAME.pegjs lexer.js' (this will generate lexer.js which will generate the necessary parser from grammar)
 4. Add a gulp task (refer to how the stats package is generated)
+
+## License
+STTerminal is released under the MIT license. See LICENSE for more details.
