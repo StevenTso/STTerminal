@@ -19,7 +19,7 @@ var condition = {
  *					TERMINAL
  *
  **************************************************/
- var terminal = {
+ = {
 	js: {
 		main:		'src/terminal/js/main.js',
 		src:		'src/terminal/js/*.js',

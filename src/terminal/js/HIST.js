@@ -22,8 +22,7 @@ HIST.prototype = {
 	historyClear: function() {
 		this.historyArr = [];
 	},
-	historyReset: function() {
-		this.historyIndex = this.historyArr.length;
+
 	},
 	historyBack: function() {
 		this.historyIndex--;
